@@ -50,4 +50,4 @@ clear.addEventListener("click", () => {
 //Erase Single Digit
 erase.addEventListener("click", () => {
   input.value = input.value.substr(0, input.value.length - 1);
-});
+});s
